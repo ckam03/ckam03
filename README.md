@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Chris
+### 👋 Hi, I’m Chris
 
+Currently I enjoy working in C#, Typescript, and Python
 
 
 <!---
